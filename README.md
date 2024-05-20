@@ -1,4 +1,4 @@
-C#12, .net8
+C#12, .NET8
 
 test used
-```$> ./hammer.sh```
+```$> cd ./Tests/Performance; ./hammer.sh```
