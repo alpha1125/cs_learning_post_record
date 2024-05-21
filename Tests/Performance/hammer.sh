@@ -13,7 +13,7 @@ generate_random_query_string() {
 # Save the URL to a file for siege (symfony)
 #echo "https://127.0.0.1:8001/ping?$(generate_random_query_string)" > urls.txt
 
-### C#/.NET no https
+### C#/.NET HTTP (not HTTPS)
 # echo "http://127.0.0.1:5197/api/ping?$(generate_random_query_string)" > urls.txt
 
 ### C#/.NET https
